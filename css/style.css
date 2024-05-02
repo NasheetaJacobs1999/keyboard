@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    width: 90vw;
+    width: 45vw;
     height: 15vh;
     background: white;
     box-shadow: 0 0 20px 2px grey;
@@ -21,7 +21,7 @@ body {
 
 .keyboard {
     height: 50vh;
-    width: 70vw;
+    width: 30vw;
     background: darkgrey;
     border-radius: 1rem;
     display: flex;
@@ -37,7 +37,7 @@ body {
 
 .btn {
     padding: 0.5rem;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 
 .btn {
